@@ -1,7 +1,7 @@
 var now = new Date;
 
 function createtime() {
-    var e = new Date("09/13/2022 12:00:00");
+    var e = new Date("09/13/2022 00:00:00");
     now.setTime(now.getTime() + 250);
     var t = (now - e) / 1e3 / 60 / 60 / 24,
         a = Math.floor(t),
