@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://joebrowncao.github.io/posts/4a17b156.html</loc>
+    <loc>https://joebrowncao.github.io/manifest.json</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joebrowncao.github.io/%E9%A1%B5%E9%9D%A2.html</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joebrowncao.github.io/tags/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -12,6 +30,15 @@
   
   <url>
     <loc>https://joebrowncao.github.io/talks/index.html</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joebrowncao.github.io/posts/4a17b156.html</loc>
     
     <lastmod>2022-09-14</lastmod>
     
@@ -32,33 +59,6 @@
     <loc>https://joebrowncao.github.io/categories/index.html</loc>
     
     <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joebrowncao.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joebrowncao.github.io/%E9%A1%B5%E9%9D%A2.html</loc>
-    
-    <lastmod>2022-09-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://joebrowncao.github.io/manifest.json</loc>
-    
-    <lastmod>2022-09-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
