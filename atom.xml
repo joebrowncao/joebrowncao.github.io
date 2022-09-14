@@ -3,11 +3,11 @@
   <title>桐君过客</title>
   
   <subtitle>一切尽在脚下</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://joebrowncao.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-09-13T17:51:33.615Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://joebrowncao.github.io/"/>
+  <updated>2022-09-14T04:07:30.245Z</updated>
+  <id>https://joebrowncao.github.io/</id>
   
   <author>
     <name>桐君过客</name>
@@ -17,13 +17,39 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
-    <published>2022-09-13T11:46:06.046Z</published>
-    <updated>2022-09-13T17:51:33.615Z</updated>
+    <title>test</title>
+    <link href="https://joebrowncao.github.io/posts/d87f7e0c.html"/>
+    <id>https://joebrowncao.github.io/posts/d87f7e0c.html</id>
+    <published>2022-09-14T02:28:21.998Z</published>
+    <updated>2022-09-14T04:07:30.245Z</updated>
     
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="简单使用"><a href="#简单使用" class="headerlink" title="简单使用"></a>简单使用</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="博客搭载过程部分记录"><a href="#博客搭载过程部分记录" class="headerlink" title="博客搭载过程部分记录"></a>博客搭载过程部分记录</h2><h4 id="vite-github搭建博客"><a href="#vite-github搭建博客" class="headerlink" title="vite + github搭建博客"></a>vite + github搭建博客</h4><p><a href="http://www.jimmyxuexue.top:999/">前端加油站🧠</a></p><h4 id="我的博客搭建"><a href="#我的博客搭建" class="headerlink" title="我的博客搭建:"></a>我的博客搭建:</h4><p><a href="https://anzhiy.cn/">安知鱼</a></p><h4 id="遇到的一些问题"><a href="#遇到的一些问题" class="headerlink" title="遇到的一些问题:"></a>遇到的一些问题:</h4><p><a href="https://blog.csdn.net/qq_18089765/article/details/118270127">npm 删除模块的方法</a></p><h5 id="查找并结束占用某端口号（如4000）的应用程序"><a href="#查找并结束占用某端口号（如4000）的应用程序" class="headerlink" title="查找并结束占用某端口号（如4000）的应用程序"></a>查找并结束占用某端口号（如4000）的应用程序</h5><ul><li>查找所有运行的端口 netstat -ano</li><li>查看被占用端口对应的 PID netstat -aon|findstr “4000”</li><li>结束进程 taskkill &#x2F;T &#x2F;F &#x2F;PID 5996</li></ul>]]></content>
+    <content type="html"><![CDATA[<div class="tip success"><p>success</p></div><div class="tip success"><p>成功</p></div><div class="tip success"><p>ok</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div class=&quot;tip success&quot;&gt;&lt;p&gt;success&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tip success&quot;&gt;&lt;p&gt;成功&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class=&quot;tip success&quot;&gt;&lt;p&gt;ok&lt;/p&gt;
+&lt;/div&gt;
+</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://joebrowncao.github.io/posts/4a17b156.html"/>
+    <id>https://joebrowncao.github.io/posts/4a17b156.html</id>
+    <published>2022-09-13T11:46:06.046Z</published>
+    <updated>2022-09-14T02:31:49.497Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="简单使用"><a href="#简单使用" class="headerlink" title="简单使用"></a>简单使用</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p><h2 id="博客搭载过程部分记录"><a href="#博客搭载过程部分记录" class="headerlink" title="博客搭载过程部分记录"></a>博客搭载过程部分记录</h2><h4 id="vite-github搭建博客"><a href="#vite-github搭建博客" class="headerlink" title="vite + github搭建博客"></a>vite + github搭建博客</h4><p><a href="http://www.jimmyxuexue.top:999/">前端加油站🧠</a></p><h4 id="我的博客搭建"><a href="#我的博客搭建" class="headerlink" title="我的博客搭建:"></a>我的博客搭建:</h4><p><a href="https://anzhiy.cn/">安知鱼</a></p><h4 id="遇到的一些问题"><a href="#遇到的一些问题" class="headerlink" title="遇到的一些问题:"></a>遇到的一些问题:</h4><p><a href="https://blog.csdn.net/qq_18089765/article/details/118270127">npm 删除模块的方法</a></p><h5 id="查找并结束占用某端口号（如4000）的应用程序"><a href="#查找并结束占用某端口号（如4000）的应用程序" class="headerlink" title="查找并结束占用某端口号（如4000）的应用程序"></a>查找并结束占用某端口号（如4000）的应用程序</h5><ul><li>查找所有运行的端口 netstat -ano</li><li>查看被占用端口对应的 PID netstat -aon|findstr “4000”</li><li>结束进程 taskkill /T /F /PID 5996</li></ul><h4 id="基于Butterfly的外挂标签引入"><a href="#基于Butterfly的外挂标签引入" class="headerlink" title="基于Butterfly的外挂标签引入"></a><a href="https://anzhiy.cn/posts/7d58.html">基于Butterfly的外挂标签引入</a></h4>]]></content>
     
     
       

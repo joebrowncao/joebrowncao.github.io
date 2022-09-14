@@ -2,16 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://example.com/manifest.json</loc>
+    <loc>https://joebrowncao.github.io/posts/d87f7e0c.html</loc>
     
-    <lastmod>2022-09-13</lastmod>
+    <lastmod>2022-09-14</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://example.com/posts/4a17b156.html</loc>
+    <loc>https://joebrowncao.github.io/posts/4a17b156.html</loc>
+    
+    <lastmod>2022-09-14</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://joebrowncao.github.io/manifest.json</loc>
     
     <lastmod>2022-09-13</lastmod>
     
@@ -21,7 +30,7 @@
   
 
   <url>
-    <loc>http://example.com/</loc>
+    <loc>https://joebrowncao.github.io/</loc>
     <lastmod>2022-09-14</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
